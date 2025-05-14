@@ -44,7 +44,3 @@ To build and run the Docker container for this static website, follow these step
 3. **Access the Website**
 
    Open your web browser and go to `http://localhost:8080` to view the static website.
-
-## License
-
-This project is licensed under the MIT License.
